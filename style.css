@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    background-color:  black;
+    font-size: 3rem;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+div{
+    background-color: black;
+    text-align: left;
+    padding: 10px;
+    
+}
+
+*{
+    background-color: black;
+}
+
+.G{
+    border: 5px solid gold;
+    margin-left: 75px;
+}
+
+img{
+    border: 5px solid gold;
+}
+
+
+
+
+
+
+
+
+
